@@ -83,7 +83,7 @@ function App() {
                     Over 4.9 million+ high quality stock images, videos and
                     music shared by our talented community.
                   </p>
-                  <SearchIMG search={(t) => setTerm(t)} />{" "}
+                  <SearchIMG search={setTerm} />{" "}
                   {/* here props is passing from child to parents */}
                 </div>
               </div>
