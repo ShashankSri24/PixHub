@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 const SearchIMG = ({ search }) => {
   const [text, setText] = useState("");
   const onSubmit = (e) => {
