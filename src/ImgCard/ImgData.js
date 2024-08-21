@@ -62,9 +62,9 @@ export const ImgData = () => {
                     >
                       <Link
                         to={"/Login"}
-                        className="rounded-[25px] p-[2px] sm:p-[5px] bg-gradient-to-r from-teal-400 to-blue-500 hover:from-pink-500 hover:to-orange-500"
-                      >
-                        Login
+                        className="rounded-[25px] text-center p-[2px] sm:p-[6px] bg-gradient-to-r from-teal-400 to-blue-500 hover:from-pink-500 hover:to-orange-500"
+                      > Login
+                        
                       </Link>
 
                       <Link
