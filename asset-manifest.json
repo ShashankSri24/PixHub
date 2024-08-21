@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PixHub/static/css/main.af8f1a27.css",
+    "main.js": "/PixHub/static/js/main.6dbf0bd9.js",
+    "static/js/453.73a29d2f.chunk.js": "/PixHub/static/js/453.73a29d2f.chunk.js",
+    "index.html": "/PixHub/index.html",
+    "main.af8f1a27.css.map": "/PixHub/static/css/main.af8f1a27.css.map",
+    "main.6dbf0bd9.js.map": "/PixHub/static/js/main.6dbf0bd9.js.map",
+    "453.73a29d2f.chunk.js.map": "/PixHub/static/js/453.73a29d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8f1a27.css",
+    "static/js/main.6dbf0bd9.js"
+  ]
+}
